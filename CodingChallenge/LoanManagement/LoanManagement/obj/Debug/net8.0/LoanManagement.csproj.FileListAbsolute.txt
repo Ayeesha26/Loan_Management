@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\CodingChallenge\LoanManagement\LoanManagement\obj\Debug\net8.0\LoanManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CodingChallenge\LoanManagement\LoanManagement\obj\Debug\net8.0\LoanManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CodingChallenge\LoanManagement\LoanManagement\obj\Debug\net8.0\LoanManagement.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CodingChallenge\LoanManagement\LoanManagement\obj\Debug\net8.0\LoanManagement.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CodingChallenge\LoanManagement\LoanManagement\obj\Debug\net8.0\LoanManagement.csproj.CoreCompileInputs.cache
